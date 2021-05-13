@@ -14,6 +14,9 @@ Grupa studencka:            WELE19xyS1
 
 # Roziwązanie dla zadania dodatkowego 4.3
 Przydzielony numer: 0
+
 Transmisja UART:
+
 Transmisja I2C:
+
 Transmisja SPI:
